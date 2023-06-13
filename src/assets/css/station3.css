@@ -1,4 +1,28 @@
 
-.class {
+
+
+.card {
     background-color: #fff;
+    color:#282828;
+    padding:5%;
+    
+
 }
+
+.card img {
+    margin-bottom:15px;
+    width:288px;
+    height:182px;
+}
+
+
+.card__title {
+    font-size: 14px;
+
+}
+
+
+.card__description {
+    font-size: 12px;
+}
+
